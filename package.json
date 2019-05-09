@@ -12,6 +12,10 @@
     "node": "8.9.4"
   },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "mapbox-gl": "^0.54.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "reactstrap": "^8.0.0"
   }
 }
